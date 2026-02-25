@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ザルバラ",
+  "base_artist": "Lanndo",
+  "createdAt": "2026-02-25T14:53:20.870218Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ザルバラ",
+      "artist": "Lanndo (ぬゆり Official)",
+      "has_synced": true,
+      "path": "select/01_ザルバラ_Lanndo_(ぬゆり_Official).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ザルバラ",
+      "artist": "Lanndo",
+      "has_synced": false,
+      "path": "select/pl_01_ザルバラ_Lanndo.txt"
+    }
+  ]
+}
